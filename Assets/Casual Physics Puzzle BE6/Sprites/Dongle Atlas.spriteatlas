@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dongle Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ca2ac8152019d4346b5f6a3ccf1bc67b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f341eb92f5cc98a49bfebb13344a57aa, type: 3}
+  - {fileID: 21300000, guid: 8defe1a2ae388b74792bda905887ef14, type: 3}
+  - {fileID: 21300000, guid: 6e1fea459c9621247b97f67f2dff88b1, type: 3}
+  - {fileID: 21300000, guid: 29392165bc26232409a7442da567a2b1, type: 3}
+  - {fileID: 21300000, guid: 8e8694079e292fd42b509f1f98c34abc, type: 3}
+  - {fileID: 21300000, guid: 38be2f17770af5345bebd434d8469568, type: 3}
+  - {fileID: 21300000, guid: 6828ab77b19cb1e47be89b2273cde042, type: 3}
+  - {fileID: 21300000, guid: 660cf6f8e33d15f40923f5c7fa7ab97d, type: 3}
+  - {fileID: 21300000, guid: 47f0af89ccd87514d89f2e9ede9f5019, type: 3}
+  - {fileID: 21300000, guid: e8ca73acc2996b7478615bcc49237fe9, type: 3}
+  - {fileID: 21300000, guid: 873bc4dc102238644b2692b553543f9c, type: 3}
+  - {fileID: 21300000, guid: d55126dcc12ab014dbb649ae44659c9f, type: 3}
+  - {fileID: 21300000, guid: aab0b9eda0ad96e4293156191cacb10c, type: 3}
+  - {fileID: 21300000, guid: f59122ee75f4b4a4bbb7f56e7ef6c44f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Line
+  - Background
+  - Dongle 1
+  - Dongle 4
+  - Dongle 2
+  - End
+  - Dongle 3
+  - Panel
+  - Square
+  - Dongle 0
+  - Dongle 5
+  - Dongle 7
+  - Title
+  - Dongle 6
+  m_RenderDataMap: {}
+  m_Tag: Dongle Atlas
+  m_IsVariant: 0
